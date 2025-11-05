@@ -1,4 +1,4 @@
-CASE STUDY.
+CASE STUDY
 * Design a network in Cisco Packet Tracer to connects ACCOUNTS and DELIVERY departments through the following:
 
     * Each department should contain at least two PCs.
